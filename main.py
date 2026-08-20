@@ -1,4 +1,4 @@
 print("Sziasztok!")
 
-print("Ez egy új sor")
+print("Ez egy új sor!")
 
